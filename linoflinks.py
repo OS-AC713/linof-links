@@ -1,3 +1,5 @@
+print("Hello, this project is temporary; it will later be transferred to OS-CORE713 as a command: linof, or Links Of. This utility provides official links to services.")
+
 import webbrowser
 
 links = {
@@ -175,10 +177,12 @@ links = {
     
 }
 while True:
-    user_input = input("Введи название сервиса: ")
+    user_input = input("Enter the service name: ")
     if user_input in links:
         url = links[user_input]
         print(f"official links: {url}")   #
         webbrowser.open(url)
     else:
         print("Not Found. Retry")
+
+
