@@ -178,10 +178,16 @@ links = {
     "tg": "https://telegram.org",
     "telegram": "https://telegram.org",
     "Ну этот который паша": "https://telegram.org",
-    "durov": "https://t.me/monk", # durov hiiiiiii
+    "durov": "https://t.me/monk",
     "@durov": "https://t.me/monk",
-    "@monk": "https://t.me/monk"
-
+    "@monk": "https://t.me/monk",
+    
+    "ac713": "https://github.com/OS-AC713", # Oh, this is me, woow
+    "@ac713": "https://github.com/OS-AC713"
+    "OS-AC713": "https://github.com/OS-AC713",
+    "@OS-AC713": "https://github.com/OS-AC713",
+    "os-ac713": "https://github.com/OS-AC713",
+    "@os-ac713": "https://github.com/OS-AC713" # It's me again, hello Linus Torvalds
     
 
 }
@@ -193,4 +199,5 @@ while True:
         webbrowser.open(url)
     else:
         print("Not Found. Retry")
+
 
