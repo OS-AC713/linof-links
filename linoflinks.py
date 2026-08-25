@@ -188,7 +188,8 @@ links = {
     "@OS-AC713": "https://github.com/OS-AC713",
     "os-ac713": "https://github.com/OS-AC713",
     "@os-ac713": "https://github.com/OS-AC713", # It's me again, hello Linus Torvalds
-    "acc713": "https://github.com/OS-AC713"
+
+    " ": "bro, was the keyboard created for?"
     
 
 }
@@ -200,5 +201,3 @@ while True:
         webbrowser.open(url)
     else:
         print("Not Found. Retry")
-
-
