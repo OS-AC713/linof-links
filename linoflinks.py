@@ -173,8 +173,17 @@ links = {
     "@torvalds": "https://github.com/torvalds",
     "torvalds": "https://github.com/torvalds",
 
-    "i use arch btw": "https://archlinux.org"
+    "i use arch btw": "https://archlinux.org",
+    "spotify": "https://spotify.com",
+    "tg": "https://telegram.org",
+    "telegram": "https://telegram.org",
+    "Ну этот который паша": "https://telegram.org",
+    "durov": "https://t.me/monk", # durov hiiiiiii
+    "@durov": "https://t.me/monk",
+    "@monk": "https://t.me/monk"
+
     
+
 }
 while True:
     user_input = input("Enter the service name: ")
@@ -184,5 +193,4 @@ while True:
         webbrowser.open(url)
     else:
         print("Not Found. Retry")
-
 
