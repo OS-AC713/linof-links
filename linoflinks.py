@@ -183,11 +183,11 @@ links = {
     "@monk": "https://t.me/monk",
     
     "ac713": "https://github.com/OS-AC713", # Oh, this is me, woow
-    "@ac713": "https://github.com/OS-AC713"
+    "@ac713": "https://github.com/OS-AC713",
     "OS-AC713": "https://github.com/OS-AC713",
     "@OS-AC713": "https://github.com/OS-AC713",
     "os-ac713": "https://github.com/OS-AC713",
-    "@os-ac713": "https://github.com/OS-AC713" # It's me again, hello Linus Torvalds
+    "@os-ac713": "https://github.com/OS-AC713", # It's me again, hello Linus Torvalds
     "acc713": "https://github.com/OS-AC713"
     
 
