@@ -191,7 +191,9 @@ links = {
 
     " ": "bro, was the keyboard created for?",
     "if": "else", # logic 
-    "openai": "Sorry, I can't give you a link. They didn't pay me money for the advertising ( ads ) .((((((( https://openai.com it's secret"
+    "openai": "Sorry, I can't give you a link. They didn't pay me money for the advertising ( ads ) .((((((( https://openai.com it's secret",
+    "UBUNTU200202020202020": "no. I wait money sorry. (((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((( For free ADS, ( secret: https://ubuntu.com )"
+    
 
 }
 while True:
