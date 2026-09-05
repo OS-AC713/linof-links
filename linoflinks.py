@@ -190,7 +190,8 @@ links = {
     "@os-ac713": "https://github.com/OS-AC713", # It's me again, hello Linus Torvalds
 
     " ": "bro, was the keyboard created for?",
-    "if": "else" # logic    
+    "if": "else", # logic 
+    "openai": "Sorry, I can't give you a link. They didn't pay me money for the advertising ( ads ) .((((((( https://openai.com it's secret"
 
 }
 while True:
