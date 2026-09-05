@@ -198,7 +198,8 @@ links = {
     "UBUNTU200202020202020": "no. I wait money sorry. (((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((( For free ADS, ( secret: https://ubuntu.com )",
     "linof": "linof.",
     "git": "i idk. Hellooo torvaldsssssssss",
-    "song": "my favorite song is GIRL HELL 1999 Femtanyl, joost - Kutmuziek, and what will you do with it?"
+    "song": "my favorite song is GIRL HELL 1999 Femtanyl, joost - Kutmuziek, and what will you do with it?",
+    "song2": "ok: Dreamcore - pathetic240px, ( torvalds hello ), Seek - LSPLASH, ( torvalds hi ), frutiger aero - amirthettrash, ( torvalds hi )."
     
 
 }
