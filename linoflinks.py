@@ -11,7 +11,7 @@ links = {
     "Chatgpt": "https://chatgpt.com",
     "chAtgpt": "https://chatgpt.com",
     "chaTgpt": "https://chatgpt.com",
-    "CHATGPT": "https://chatgpt.com", # pay me for ADD openai 
+    "CHATGPT": "https://chatgpt.com", # pay me for ADS openai 
     "CHATgpt": "https://chatgpt.com",
     "chatGPT": "https://chatgpt.com",
     "c hatgpt": "https://chatgpt.com",
@@ -19,7 +19,7 @@ links = {
     "cha tgpt": "https://chatgpt.com",
     "C hatgpt": "https://chatgpt.com",
     "Ch atgpt": "https://chatgpt.com",
-    "Cha tgpt": "https://chatgpt.com",
+    "Cha tgpt": "https://chatgpt.com", # i wait.
     "CH atgpt": "https://chatgpt.com",
     "CHA tgpt": "https://chatgpt.com",
     "CHAT gpt": "https://chatgpt.com",
@@ -44,7 +44,7 @@ links = {
     "groK": "https://grok.com",
     
     "google": "https://www.google.com",
-    "Google": "https://www.google.com",
+    "Google": "https://www.google.com", # google.
     "GOOGLE": "https://www.google.com",
     "gOogle": "https://www.google.com",
     "gOOgle": "https://www.google.com",
@@ -62,7 +62,7 @@ links = {
     "LINux": "https://kernel.org",
     "LINUx": "https://kernel.org",
     "LINUX": "https://kernel.org",
-    "Kernel": "https://kernel.org", # There is no such thing as too much Linux
+    "Kernel": "https://kernel.org", # There is no such thing as too much Linux.. Linus Torvalds HIIII
     "KErnel": "https://kernel.org",
     "KERnel": "https://kernel.org",
     "KERNel": "https://kernel.org",
@@ -90,7 +90,7 @@ links = {
     "UBUNTU Linux": "https://ubuntu.com",
     "Ubuntu LInux": "https://ubuntu.com",
     "Ubuntu LINux": "https://ubuntu.com",
-    "Ubuntu LINUx": "https://ubuntu.com",
+    "Ubuntu LINUx": "https://ubuntu.com", # ummm.. Ubuntu, fuck you! And it's joke, lollllll
     "Ubuntu LINUX": "https://ubuntu.com",
     "UBuntu LInux": "https://ubuntu.com",
     "UBUntu LINux": "https://ubuntu.com",
@@ -121,7 +121,7 @@ links = {
     "ubuntu1 linuX": "https://ubuntu.com",
     "ubuntu1 linUX": "https://ubuntu.com",
     "ubuntu1 liNUX": "https://ubuntu.com",
-    "ubuntu1 lINUX": "https://ubuntu.com",   # PAY FOR ADD FUUUCK
+    "ubuntu1 lINUX": "https://ubuntu.com",   # PAY FOR ADS FUUUUCK
     "ubuntu1 LINUX": "https://ubuntu.com",
     "ubuntu2 linuX": "https://ubuntu.com",
     "ubuntu2 linUX": "https://ubuntu.com",
@@ -159,7 +159,7 @@ links = {
     "ubuntu8 lINUX": "https://ubuntu.com",
     "ubuntu8 LINUX": "https://ubuntu.com",
     "ubuntu9 linuX": "https://ubuntu.com",
-    "ubuntu9 linUX": "https://ubuntu.com",
+    "ubuntu9 linUX": "https://ubuntu.com", # wow
     "ubuntu9 liNUX": "https://ubuntu.com",
     "ubuntu9 lINUX": "https://ubuntu.com",
     "ubuntu9 LINUX": "https://ubuntu.com",
@@ -178,7 +178,7 @@ links = {
     "tg": "https://telegram.org",
     "telegram": "https://telegram.org",
     "Ну этот который паша": "https://telegram.org",
-    "durov": "https://t.me/monk",
+    "durov": "https://t.me/monk", # durov, durov durov durov 
     "@durov": "https://t.me/monk",
     "@monk": "https://t.me/monk",
     
@@ -189,8 +189,8 @@ links = {
     "os-ac713": "https://github.com/OS-AC713",
     "@os-ac713": "https://github.com/OS-AC713", # It's me again, hello Linus Torvalds
 
-    " ": "bro, was the keyboard created for?"
-    
+    " ": "bro, was the keyboard created for?",
+    "if": "else" # logic    
 
 }
 while True:
