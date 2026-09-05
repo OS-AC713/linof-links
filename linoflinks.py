@@ -172,6 +172,9 @@ links = {
 
     "@torvalds": "https://github.com/torvalds",
     "torvalds": "https://github.com/torvalds",
+    "cooltorvalds.com": "https://github.com/torvalds", # torvalds hellooooooooooooooooo!
+    "torvaldsnotcoolbebebe": "no.", # torvalds
+    "torvaldsmegacoolyes": "https://github.com/torvalds" # yeees, torvalds hellooooooooooooo
 
     "i use arch btw": "https://archlinux.org",
     "spotify": "https://spotify.com",
